@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="quick_add_widget_name">Quick Add Task</string>
+    <string name="quick_add_widget_desc">Add new tasks quickly from the home screen</string>
+    <string name="upcoming_tasks_widget_name">Upcoming Tasks</string>
+    <string name="upcoming_tasks_widget_desc">View upcoming tasks and mark them complete directly from the home screen</string>
+</resources>
